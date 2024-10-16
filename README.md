@@ -3,8 +3,7 @@
 Overview
 
   This project is focused on scraping product information, including titles and prices, from Amazon. The goal is to automate the process of tracking price fluctuations over time and storing   the data in a CSV file for further analysis.
-  Key Features
-
+  
   Web Scraping: Extracts product details such as title and price from Amazon product pages using BeautifulSoup and requests.
   Automated Price Tracking: Runs daily, scraping the product data and appending it to a CSV file to keep track of changes over time.
   Data Storage: Saves the product title, price, and the date of extraction into a CSV file, creating a historical record for price analysis.
